@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Name: Nkwachi Nwamaghinna</string>
+    <string name="slack_username">Slack Username: itz-Kwaz</string>
+    <string name="email">nkwachinwamghinna@gmail.com</string>
+    <string name="tracks">TRACKS</string>
+    <string name="tracks_detail">Java, Kotlin, Flutter</string>
+</resources>
